@@ -1,0 +1,13 @@
+.{
+    .name = .zig_gmp_test,
+    .version = "0.0.1",
+    .dependencies = .{
+        .zig_gmp = .{
+            .url = "https://github.com/chrocapix/zig-gmp/archive/refs/heads/main.zip",
+            .hash = "zig_gmp-0.0.1-qJq221gjHwFiDb0NQxsLtF6AeotnD57gRlgZRXbEDaxZ",
+        },
+    },
+    .minimum_zig_version = "0.15.1",
+    .paths = .{""},
+    .fingerprint = 0x78f4e6a5867e5d4f,
+}
