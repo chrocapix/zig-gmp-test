@@ -4,7 +4,7 @@
     .dependencies = .{
         .zig_gmp = .{
             .url = "https://github.com/chrocapix/zig-gmp/archive/refs/heads/main.zip",
-            .hash = "zig_gmp-0.0.1-qJq221gjHwFiDb0NQxsLtF6AeotnD57gRlgZRXbEDaxZ",
+            .hash = "zig_gmp-0.0.1-qJq222MhHwGv7dggVzxsoGTLuWjiHpeFOK4pwE2aRhTM",
         },
     },
     .minimum_zig_version = "0.15.1",
